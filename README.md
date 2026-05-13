@@ -17,20 +17,5 @@ It was difficult for us to design a web virtual reality view page in such a way 
 It's project built on pure php & html, css and javascript so setup as normal php project. For database you can import [projecteverest.sql](https://github.com/adarshaacharya/Tour360/blob/master/database/projecteverest.sql) file on mysql database.
 
 
-## Team
-
-- [Prajwol Tiwari]( https://github.com/prajwoltiwari )
-
-- [Pemba Sherpa]( https://github.com/pemba1s1 )
-
-- [Aadarsha Acharya]( https://github.com/adarshaacharya)
-
-- [Suparth Ghimire]( https://github.com/suparthghimire )
-
-
-## Reference
-
-Build as part of [Everest Hack](https://everest-hack.com/) - 2019 on Theme Visit Nepal 2020.
-
 
 For any queries DM be on Twitter : [@adarsha_ach](https://x.com/adarsha_ach)
